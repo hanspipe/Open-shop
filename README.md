@@ -65,4 +65,6 @@ QQ交流群号：877611106 <br/>
 # 菜单
 ![菜单](http://pgf1db9j6.bkt.clouddn.com/menu.png "菜单1")
 
-本项目借鉴码云上platform-wechat-mall项目，在此感谢作者。
+本项目来自码云上platform-wechat-mall（https://gitee.com/fuyang_lipengjun/platform）项目。
+我们修复了所有发现的bug，还有自己的新功能增加。
+后面会有不断的更新新功能。
