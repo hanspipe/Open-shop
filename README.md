@@ -65,4 +65,4 @@ QQ交流群号：877611106 <br/>
 # 菜单
 ![菜单](http://pgf1db9j6.bkt.clouddn.com/menu.png "菜单1")
 
-本项目借鉴码云上优秀开源项目，在此感谢作者。
+本项目借鉴码云上platform-wechat-mall项目，在此感谢作者。
